@@ -1,0 +1,23 @@
+{
+  "python.pythonPath": "/Users/MagIMAC/anaconda3/envs/Python37/bin/python",
+  "workbench.colorTheme": "Predawn",
+  "workbench.iconTheme": "ayu",
+  "workbench.settings.editor": "json",
+  "workbench.settings.openDefaultSettings": true,
+  "workbench.settings.useSplitJSON": true,
+  "editor.fontSize": 15,
+  "editor.fontWeight": "500",
+  "editor.fontFamily": "Source Code Pro",
+  "debug.console.fontSize": 15,
+  "debug.console.fontFamily": "Source Code Pro",
+  "terminal.integrated.fontFamily": "Source Code Pro",
+  "terminal.integrated.fontSize": 15,
+  "terminal.integrated.fontWeight": "200",
+  "python.formatting.provider": "black",
+  "editor.formatOnSave": true,
+  "code-runner.executorMap": {
+    "python": "$pythonPath -u $fullFileName"
+  },
+  "code-runner.showExecutionMessage": false,
+  "code-runner.clearPreviousOutput": true
+}
